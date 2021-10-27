@@ -648,6 +648,7 @@ footer {
     height: 350px;
     margin: 15px auto 0 auto;
     width: 90%;
+    background-repeat: no-repeat;
   }
   .p1_main,
   .p2_main,
@@ -695,7 +696,6 @@ footer {
   .splide__slide {
     background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
   
   }
   .splide {
