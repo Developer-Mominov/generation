@@ -4,6 +4,9 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+.splide__slide,.img2{
+    background-repeat:no-repeat !important;
+}
 .main {
   background-image: url(./resources/back.svg);
 }
