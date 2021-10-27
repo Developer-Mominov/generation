@@ -211,7 +211,6 @@ nav li:hover a {
   height: 500px;
   border-radius: 5px 0 0 5px;
   background-size: cover;
-    background-repeat: no-repeat;
 }
 .img {
   background-image: url(./resources/about-img.jpg);
@@ -220,6 +219,7 @@ nav li:hover a {
   background-image: url(./resources/DSC_9428-min.JPG);
   border-radius: 0px 5px 5px 0px;
   background-position: center;
+  background-repeat: no-repeat;
 }
 .about {
   display: flex;
